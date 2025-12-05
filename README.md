@@ -62,9 +62,9 @@ It performs the multiplication of two 8-bit binary numbers using **AND gates for
 - Optimized for gate-level understanding and hardware implementation.  
 - Verified through simulation in Proteus to ensure correct binary multiplication.
 
-- Although this array multiplier works correctly, it is not suitable to embed directly inside a single-cycle ALU.
-Array multipliers have a large combinational delay, and placing them inside the ALU would significantly slow down the entire datapath.
-That’s why real CPU designs implement multiplication as a separate hardware unit or multi-cycle block, not as part of the main ALU.
+Although the array multiplier functions correctly, it is not suitable for inclusion inside a single-cycle ALU.
+Array multipliers have a very long combinational delay, and placing them inside the ALU would dramatically increase the ALU’s critical path. This reduces the maximum operating frequency of the entire processor.
+For this reason, real CPU designs implement multiplication in a separate hardware unit—often multi-cycle or pipelined—while keeping the ALU optimized for fast operations like addition, subtraction, logic, and shifts.
 
 
 
