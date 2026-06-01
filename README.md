@@ -94,7 +94,7 @@ It performs the arithmetic addition of two 8-bit binary numbers, generating an 8
 
 
 
-![8-Bit Subtractor Schematic]
+## ⚙️ 8-Bit Subtracter Circuit
 
 
 <img width="492" height="688" alt="Screenshot 2025-07-02 031841" src="https://github.com/user-attachments/assets/df06c3dd-9786-468c-a38f-033ffab18d49" />
@@ -173,7 +173,8 @@ The circuit selects one of the eight input data lines and forwards it to a singl
 
 ## ⚙️ 8-Bit Arithmetic Logic Unit (ALU)
 
-![8-Bit ALU Schematic](Screenshot%202025-10-21%20130806.png)
+<img width="868" height="726" alt="Screenshot 2025-10-21 130806" src="https://github.com/user-attachments/assets/b8d1d1c5-6d94-4a4f-8139-03c76742afe4" />
+
 
 *Figure: RTL schematic of 8-bit ALU generated in Vivado.*
 
@@ -233,7 +234,7 @@ The ALU performs a wide range of arithmetic and logical operations and produces 
 
 ## ⚙️ 8-Bit ALU Vivado Implementation
 
-![8-Bit ALU Implementation](Screenshot%202025-10-28%20224858.png)
+<img width="1640" height="566" alt="Screenshot 2025-10-28 224858" src="https://github.com/user-attachments/assets/5779d8bc-a896-40d6-a75a-631b386fa373" />
 
 *Figure: Post-synthesis implementation of the 8-bit ALU in Vivado.*
 
@@ -273,7 +274,7 @@ It visually represents how logic gates, adders, multiplexers, and combinational 
 
 ## ⚙️ 8-Bit ALU Device Utilization View (Vivado)
 
-![8-Bit ALU Device View](Screenshot%202025-10-28%20225047.png)
+<img width="343" height="530" alt="Screenshot 2025-10-28 225047" src="https://github.com/user-attachments/assets/9979d873-3b21-4c44-aaed-294d490c94e1" />
 
 *Figure: Device view showing placement of ALU logic elements on the FPGA after implementation.*
 
