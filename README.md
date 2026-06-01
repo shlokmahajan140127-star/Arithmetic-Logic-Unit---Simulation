@@ -95,6 +95,8 @@ It performs the arithmetic addition of two 8-bit binary numbers, generating an 8
 
 
 ![8-Bit Subtractor Schematic]
+
+
 <img width="492" height="688" alt="Screenshot 2025-07-02 031841" src="https://github.com/user-attachments/assets/df06c3dd-9786-468c-a38f-033ffab18d49" />
 
 *Figure: 8-bit subtractor schematic implemented in Proteus.*
