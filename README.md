@@ -44,7 +44,7 @@ To design and implement an **8-bit Arithmetic Logic Unit (ALU)** by integrating 
 
 ## ⚙️ 8-Bit Multiplier Circuit
 
-![8-Bit Multiplier Schematic](Screenshot%202025-06-20%20202255.png)
+<img width="1650" height="673" alt="Screenshot 2025-06-20 202255" src="https://github.com/user-attachments/assets/77bc392f-5769-46b8-97c8-6cb094f9dc79" />
 
 *Figure: 8-bit multiplier schematic implemented in Proteus.*
 
@@ -71,7 +71,8 @@ For this reason, real CPU designs implement multiplication in a separate hardwar
 
 ## ⚙️ 8-Bit Adder Circuit
 
-![8-Bit Adder Schematic](Screenshot%202025-07-02%20031753.png)
+<img width="440" height="509" alt="Screenshot 2025-07-02 031753" src="https://github.com/user-attachments/assets/ae52c913-2960-49e5-9081-81b75fe8568c" />
+
 
 *Figure: 8-bit adder schematic implemented in Proteus.*
 
@@ -93,7 +94,8 @@ It performs the arithmetic addition of two 8-bit binary numbers, generating an 8
 
 
 
-![8-Bit Subtractor Schematic](Screenshot%202025-07-02%20031841.png)
+![8-Bit Subtractor Schematic]
+<img width="492" height="688" alt="Screenshot 2025-07-02 031841" src="https://github.com/user-attachments/assets/df06c3dd-9786-468c-a38f-033ffab18d49" />
 
 *Figure: 8-bit subtractor schematic implemented in Proteus.*
 
@@ -117,7 +119,8 @@ It performs subtraction between two 8-bit binary numbers using the **2’s compl
 
 ## ⚙️ 8-Bit Comparator Circuit
 
-![8-Bit Comparator Schematic](Screenshot%202025-07-04%20145433.png)
+![8-Bit Comparator Schematic]
+<img width="1167" height="730" alt="Screenshot 2025-07-04 145433" src="https://github.com/user-attachments/assets/ca4de749-781b-45fc-a54e-51500e84baf1" />
 
 *Figure: 8-bit comparator schematic implemented in Proteus.*
 
@@ -144,7 +147,7 @@ The circuit compares two 8-bit binary numbers and produces three outputs indicat
 
 ## ⚙️ 8-Bit Multiplexer Circuit
 
-![8-Bit Multiplexer Schematic](Screenshot%202025-07-06%20224526.png)
+<img width="730" height="435" alt="Screenshot 2025-07-06 224526" src="https://github.com/user-attachments/assets/e6d8fafd-a23a-477c-adb9-d94229bbe42e" />
 
 *Figure: 8-bit multiplexer schematic implemented in Proteus.*
 
